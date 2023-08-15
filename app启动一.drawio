@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-15T12:59:17.775Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="gziUnBhmdcfziOoS2R2t" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-15T13:04:10.005Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="h_cX0tT7oiVjIYFwuuoC" version="21.6.5" type="github">
   <diagram name="第 1 页" id="rp87v1Rvojw5iXjgeMau">
     <mxGraphModel dx="1337" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,8 +22,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="300" y="580" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="270" y="400" />
-              <mxPoint x="270" y="700" />
+              <mxPoint x="290" y="400" />
+              <mxPoint x="290" y="730" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -42,7 +42,7 @@
           <mxGeometry x="130" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="azUSpkt_eAWuSsv6hzU4-16" value="app启动" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="130" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gSFkbJNpJ3zHrIKWA0CX-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="azUSpkt_eAWuSsv6hzU4-22" target="azUSpkt_eAWuSsv6hzU4-38">
           <mxGeometry relative="1" as="geometry" />
@@ -54,7 +54,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="azUSpkt_eAWuSsv6hzU4-24" value="加载预埋包" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="524.5" y="620" width="109" height="60" as="geometry" />
+          <mxGeometry x="524.5" y="630" width="109" height="50" as="geometry" />
         </mxCell>
         <mxCell id="azUSpkt_eAWuSsv6hzU4-27" value="进入RN页面" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="521.5" y="730" width="115" height="60" as="geometry" />
@@ -120,8 +120,8 @@
         <mxCell id="gSFkbJNpJ3zHrIKWA0CX-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gSFkbJNpJ3zHrIKWA0CX-1" target="azUSpkt_eAWuSsv6hzU4-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gSFkbJNpJ3zHrIKWA0CX-1" value="清除RN包缓存&lt;br&gt;信息；&lt;br&gt;异步清除RN包缓存文件；" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="579" width="120" height="60" as="geometry" />
+        <mxCell id="gSFkbJNpJ3zHrIKWA0CX-1" value="清除RN包缓存信息；&lt;br&gt;异步清除RN包缓存文件；&lt;br&gt;异步请求更新预埋包；" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="570" width="150" height="91" as="geometry" />
         </mxCell>
         <mxCell id="gSFkbJNpJ3zHrIKWA0CX-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="azUSpkt_eAWuSsv6hzU4-27" target="azUSpkt_eAWuSsv6hzU4-27">
           <mxGeometry relative="1" as="geometry" />
