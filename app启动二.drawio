@@ -1,24 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2023-08-15T12:09:20.981Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="qQqo5-YoFkfzJirGbqgW" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-17T11:30:11.850Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="atgLBko1DWb3fURvQ-Hn" version="21.6.8" type="github">
   <diagram name="第 1 页" id="rp87v1Rvojw5iXjgeMau">
-    <mxGraphModel dx="1822" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1455" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="azUSpkt_eAWuSsv6hzU4-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="azUSpkt_eAWuSsv6hzU4-1" target="azUSpkt_eAWuSsv6hzU4-2">
+        <mxCell id="azUSpkt_eAWuSsv6hzU4-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="azUSpkt_eAWuSsv6hzU4-1" target="azUSpkt_eAWuSsv6hzU4-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="azUSpkt_eAWuSsv6hzU4-1" value="app启动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="azUSpkt_eAWuSsv6hzU4-1" value="app启动" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="azUSpkt_eAWuSsv6hzU4-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="azUSpkt_eAWuSsv6hzU4-2" target="azUSpkt_eAWuSsv6hzU4-8">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="azUSpkt_eAWuSsv6hzU4-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="azUSpkt_eAWuSsv6hzU4-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="520" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="azUSpkt_eAWuSsv6hzU4-116" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="azUSpkt_eAWuSsv6hzU4-9">
+        <mxCell id="azUSpkt_eAWuSsv6hzU4-116" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="azUSpkt_eAWuSsv6hzU4-9" vertex="1" connectable="0">
           <mxGeometry x="-0.1693" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="azUSpkt_eAWuSsv6hzU4-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="azUSpkt_eAWuSsv6hzU4-2" target="azUSpkt_eAWuSsv6hzU4-16">
+        <mxCell id="azUSpkt_eAWuSsv6hzU4-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="azUSpkt_eAWuSsv6hzU4-2" target="azUSpkt_eAWuSsv6hzU4-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="230" y="620" as="targetPoint" />
             <Array as="points">
@@ -27,182 +29,183 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="azUSpkt_eAWuSsv6hzU4-115" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="azUSpkt_eAWuSsv6hzU4-21">
+        <mxCell id="azUSpkt_eAWuSsv6hzU4-115" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="azUSpkt_eAWuSsv6hzU4-21" vertex="1" connectable="0">
           <mxGeometry x="-0.0631" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="azUSpkt_eAWuSsv6hzU4-2" value="版本是否改变" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="azUSpkt_eAWuSsv6hzU4-2" value="是否覆盖安装" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="65" y="400" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="azUSpkt_eAWuSsv6hzU4-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="azUSpkt_eAWuSsv6hzU4-6" target="azUSpkt_eAWuSsv6hzU4-38">
+        <mxCell id="azUSpkt_eAWuSsv6hzU4-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="azUSpkt_eAWuSsv6hzU4-6" target="azUSpkt_eAWuSsv6hzU4-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="azUSpkt_eAWuSsv6hzU4-103" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="azUSpkt_eAWuSsv6hzU4-42">
+        <mxCell id="azUSpkt_eAWuSsv6hzU4-103" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="azUSpkt_eAWuSsv6hzU4-42" vertex="1" connectable="0">
           <mxGeometry x="-0.1596" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="azUSpkt_eAWuSsv6hzU4-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="azUSpkt_eAWuSsv6hzU4-6" target="azUSpkt_eAWuSsv6hzU4-64">
+        <mxCell id="azUSpkt_eAWuSsv6hzU4-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="azUSpkt_eAWuSsv6hzU4-6" target="azUSpkt_eAWuSsv6hzU4-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="azUSpkt_eAWuSsv6hzU4-99" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="azUSpkt_eAWuSsv6hzU4-74">
+        <mxCell id="azUSpkt_eAWuSsv6hzU4-99" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="azUSpkt_eAWuSsv6hzU4-74" vertex="1" connectable="0">
           <mxGeometry x="-0.2134" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="azUSpkt_eAWuSsv6hzU4-6" value="app版本是&lt;br&gt;否改变" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="azUSpkt_eAWuSsv6hzU4-6" value="是否覆盖安装" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="591.5" y="330" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="azUSpkt_eAWuSsv6hzU4-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="azUSpkt_eAWuSsv6hzU4-8" target="azUSpkt_eAWuSsv6hzU4-59">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="azUSpkt_eAWuSsv6hzU4-8" value="持久化缓存新版本标识，同时全局缓存版本改变状态" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="520" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="azUSpkt_eAWuSsv6hzU4-16" value="app启动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="azUSpkt_eAWuSsv6hzU4-16" value="app启动" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="azUSpkt_eAWuSsv6hzU4-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="azUSpkt_eAWuSsv6hzU4-22" target="azUSpkt_eAWuSsv6hzU4-6">
+        <mxCell id="azUSpkt_eAWuSsv6hzU4-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="azUSpkt_eAWuSsv6hzU4-22" target="azUSpkt_eAWuSsv6hzU4-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="azUSpkt_eAWuSsv6hzU4-22" value="打开RN模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="azUSpkt_eAWuSsv6hzU4-22" value="打开RN模块" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="586.5" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="azUSpkt_eAWuSsv6hzU4-78" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="azUSpkt_eAWuSsv6hzU4-23" target="azUSpkt_eAWuSsv6hzU4-24">
+        <mxCell id="azUSpkt_eAWuSsv6hzU4-78" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="azUSpkt_eAWuSsv6hzU4-23" target="azUSpkt_eAWuSsv6hzU4-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="azUSpkt_eAWuSsv6hzU4-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="azUSpkt_eAWuSsv6hzU4-23" target="azUSpkt_eAWuSsv6hzU4-73">
+        <mxCell id="azUSpkt_eAWuSsv6hzU4-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="azUSpkt_eAWuSsv6hzU4-23" target="azUSpkt_eAWuSsv6hzU4-73" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="azUSpkt_eAWuSsv6hzU4-102" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="azUSpkt_eAWuSsv6hzU4-94">
+        <mxCell id="azUSpkt_eAWuSsv6hzU4-102" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="azUSpkt_eAWuSsv6hzU4-94" vertex="1" connectable="0">
           <mxGeometry x="-0.2753" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="azUSpkt_eAWuSsv6hzU4-23" value="是否是预埋&lt;br&gt;RN包的模块" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="azUSpkt_eAWuSsv6hzU4-23" value="是否是预埋&lt;br&gt;RN包的模块" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="591.5" y="570" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="azUSpkt_eAWuSsv6hzU4-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="azUSpkt_eAWuSsv6hzU4-24" target="azUSpkt_eAWuSsv6hzU4-27">
+        <mxCell id="azUSpkt_eAWuSsv6hzU4-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="azUSpkt_eAWuSsv6hzU4-24" target="azUSpkt_eAWuSsv6hzU4-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="azUSpkt_eAWuSsv6hzU4-24" value="加载预埋包" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="azUSpkt_eAWuSsv6hzU4-24" value="加载预埋包" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="592.5" y="700" width="109" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="azUSpkt_eAWuSsv6hzU4-27" value="进入RN页面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="azUSpkt_eAWuSsv6hzU4-27" value="进入RN页面" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="589.5" y="790" width="115" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="azUSpkt_eAWuSsv6hzU4-44" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="azUSpkt_eAWuSsv6hzU4-43">
+        <mxCell id="azUSpkt_eAWuSsv6hzU4-44" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="azUSpkt_eAWuSsv6hzU4-43" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="390.9999999999998" y="485" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="azUSpkt_eAWuSsv6hzU4-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="azUSpkt_eAWuSsv6hzU4-38" target="azUSpkt_eAWuSsv6hzU4-39">
+        <mxCell id="azUSpkt_eAWuSsv6hzU4-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="azUSpkt_eAWuSsv6hzU4-38" target="azUSpkt_eAWuSsv6hzU4-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="azUSpkt_eAWuSsv6hzU4-106" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="azUSpkt_eAWuSsv6hzU4-96">
+        <mxCell id="azUSpkt_eAWuSsv6hzU4-106" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="azUSpkt_eAWuSsv6hzU4-96" vertex="1" connectable="0">
           <mxGeometry x="-0.176" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="azUSpkt_eAWuSsv6hzU4-38" value="是否有缓&lt;br&gt;存包" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="azUSpkt_eAWuSsv6hzU4-38" value="是否有缓&lt;br&gt;存包" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="296.5" y="445" width="96" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="azUSpkt_eAWuSsv6hzU4-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="azUSpkt_eAWuSsv6hzU4-39" target="azUSpkt_eAWuSsv6hzU4-27">
+        <mxCell id="azUSpkt_eAWuSsv6hzU4-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="azUSpkt_eAWuSsv6hzU4-39" target="azUSpkt_eAWuSsv6hzU4-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="azUSpkt_eAWuSsv6hzU4-39" value="加载缓存包" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="azUSpkt_eAWuSsv6hzU4-39" value="加载缓存包" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="700" width="129" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="azUSpkt_eAWuSsv6hzU4-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="azUSpkt_eAWuSsv6hzU4-43" target="azUSpkt_eAWuSsv6hzU4-24">
+        <mxCell id="azUSpkt_eAWuSsv6hzU4-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="azUSpkt_eAWuSsv6hzU4-43" target="azUSpkt_eAWuSsv6hzU4-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="azUSpkt_eAWuSsv6hzU4-111" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="azUSpkt_eAWuSsv6hzU4-46">
+        <mxCell id="azUSpkt_eAWuSsv6hzU4-111" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="azUSpkt_eAWuSsv6hzU4-46" vertex="1" connectable="0">
           <mxGeometry x="-0.0425" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="azUSpkt_eAWuSsv6hzU4-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="azUSpkt_eAWuSsv6hzU4-43" target="azUSpkt_eAWuSsv6hzU4-47">
+        <mxCell id="azUSpkt_eAWuSsv6hzU4-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="azUSpkt_eAWuSsv6hzU4-43" target="azUSpkt_eAWuSsv6hzU4-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="azUSpkt_eAWuSsv6hzU4-112" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="azUSpkt_eAWuSsv6hzU4-104">
+        <mxCell id="azUSpkt_eAWuSsv6hzU4-112" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="azUSpkt_eAWuSsv6hzU4-104" vertex="1" connectable="0">
           <mxGeometry x="-0.1178" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="azUSpkt_eAWuSsv6hzU4-43" value="是否是预埋&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;RN包的模块" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="azUSpkt_eAWuSsv6hzU4-43" value="是否是预埋&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;RN包的模块" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="445" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="azUSpkt_eAWuSsv6hzU4-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="azUSpkt_eAWuSsv6hzU4-47">
+        <mxCell id="azUSpkt_eAWuSsv6hzU4-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="azUSpkt_eAWuSsv6hzU4-47" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="485.0882352941178" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="azUSpkt_eAWuSsv6hzU4-47" value="请求加载热更新包" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="azUSpkt_eAWuSsv6hzU4-47" value="请求加载热更新包" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="431.5" y="700" width="107" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="azUSpkt_eAWuSsv6hzU4-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="azUSpkt_eAWuSsv6hzU4-59" target="azUSpkt_eAWuSsv6hzU4-16">
+        <mxCell id="EWcS5PQUw3qIA9_qbZKQ-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="azUSpkt_eAWuSsv6hzU4-59" target="EWcS5PQUw3qIA9_qbZKQ-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="azUSpkt_eAWuSsv6hzU4-59" value="接口请求该app版本支持的全量RN包信息，并做全局缓存" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="620" width="120" height="60" as="geometry" />
+        <mxCell id="azUSpkt_eAWuSsv6hzU4-59" value="接口请求该app版本支持的全量RN包信息，并做全局缓存" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="525" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="azUSpkt_eAWuSsv6hzU4-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="azUSpkt_eAWuSsv6hzU4-64" target="azUSpkt_eAWuSsv6hzU4-66">
+        <mxCell id="azUSpkt_eAWuSsv6hzU4-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="azUSpkt_eAWuSsv6hzU4-64" target="azUSpkt_eAWuSsv6hzU4-66" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="azUSpkt_eAWuSsv6hzU4-100" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="azUSpkt_eAWuSsv6hzU4-75">
+        <mxCell id="azUSpkt_eAWuSsv6hzU4-100" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="azUSpkt_eAWuSsv6hzU4-75" vertex="1" connectable="0">
           <mxGeometry x="-0.008" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="azUSpkt_eAWuSsv6hzU4-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="azUSpkt_eAWuSsv6hzU4-64" target="azUSpkt_eAWuSsv6hzU4-23">
+        <mxCell id="azUSpkt_eAWuSsv6hzU4-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="azUSpkt_eAWuSsv6hzU4-64" target="azUSpkt_eAWuSsv6hzU4-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="azUSpkt_eAWuSsv6hzU4-101" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="azUSpkt_eAWuSsv6hzU4-79">
+        <mxCell id="azUSpkt_eAWuSsv6hzU4-101" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="azUSpkt_eAWuSsv6hzU4-79" vertex="1" connectable="0">
           <mxGeometry x="-0.1312" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="azUSpkt_eAWuSsv6hzU4-64" value="是否有缓&lt;br&gt;存包" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="azUSpkt_eAWuSsv6hzU4-64" value="是否有缓&lt;br&gt;存包" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="598.5" y="445" width="96" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="azUSpkt_eAWuSsv6hzU4-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="azUSpkt_eAWuSsv6hzU4-66" target="azUSpkt_eAWuSsv6hzU4-73">
+        <mxCell id="azUSpkt_eAWuSsv6hzU4-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="azUSpkt_eAWuSsv6hzU4-66" target="azUSpkt_eAWuSsv6hzU4-73" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="azUSpkt_eAWuSsv6hzU4-93" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="azUSpkt_eAWuSsv6hzU4-91">
+        <mxCell id="azUSpkt_eAWuSsv6hzU4-93" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="azUSpkt_eAWuSsv6hzU4-91" vertex="1" connectable="0">
           <mxGeometry x="-0.2438" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="azUSpkt_eAWuSsv6hzU4-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="azUSpkt_eAWuSsv6hzU4-66" target="azUSpkt_eAWuSsv6hzU4-107">
+        <mxCell id="azUSpkt_eAWuSsv6hzU4-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="azUSpkt_eAWuSsv6hzU4-66" target="azUSpkt_eAWuSsv6hzU4-107" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="962" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="azUSpkt_eAWuSsv6hzU4-110" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="azUSpkt_eAWuSsv6hzU4-108">
+        <mxCell id="azUSpkt_eAWuSsv6hzU4-110" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="azUSpkt_eAWuSsv6hzU4-108" vertex="1" connectable="0">
           <mxGeometry x="-0.462" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="azUSpkt_eAWuSsv6hzU4-66" value="缓存包是最新" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="azUSpkt_eAWuSsv6hzU4-66" value="缓存包是最新" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="757" y="445" width="96" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="azUSpkt_eAWuSsv6hzU4-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="azUSpkt_eAWuSsv6hzU4-73">
+        <mxCell id="azUSpkt_eAWuSsv6hzU4-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="805.5" y="820" as="targetPoint" />
+            <mxPoint x="804.5" y="820" as="targetPoint" />
+            <mxPoint x="804" y="635" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="azUSpkt_eAWuSsv6hzU4-73" value="请求加载热更新包" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="azUSpkt_eAWuSsv6hzU4-73" value="请求加载热更新包" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="751.5" y="585" width="107" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="azUSpkt_eAWuSsv6hzU4-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="azUSpkt_eAWuSsv6hzU4-107" target="azUSpkt_eAWuSsv6hzU4-27">
+        <mxCell id="azUSpkt_eAWuSsv6hzU4-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="azUSpkt_eAWuSsv6hzU4-107" target="azUSpkt_eAWuSsv6hzU4-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="azUSpkt_eAWuSsv6hzU4-107" value="加载缓存包" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="azUSpkt_eAWuSsv6hzU4-107" value="加载缓存包" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="898.5" y="585" width="129" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="azUSpkt_eAWuSsv6hzU4-113" value="这里根据app启动时获取的全量RN包信息判断" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="azUSpkt_eAWuSsv6hzU4-113" value="这里根据app启动时获取的全量RN包信息判断" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="793" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EWcS5PQUw3qIA9_qbZKQ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EWcS5PQUw3qIA9_qbZKQ-1" target="azUSpkt_eAWuSsv6hzU4-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EWcS5PQUw3qIA9_qbZKQ-1" value="异步检查更新缓存包，全部更新完成，更新覆盖安装标识" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="610" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
